@@ -1,2 +1,2 @@
-# Arduino-Projects
-Arduino based projects
+# Arduino-Controlled-Robotic-Arm
+Arduino based robotic arm
