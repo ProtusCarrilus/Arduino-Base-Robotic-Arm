@@ -1,2 +1,2 @@
 # Arduino-Projects
-Amazing Arduino based projects
+Arduino based projects
